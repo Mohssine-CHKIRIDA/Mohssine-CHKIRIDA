@@ -10,11 +10,11 @@ Software Engineering student at **INPT Rabat** — building full-stack products 
 AI-powered Agile management SaaS inspired by Jira. Combines Scrum, Kanban, and AI agents (LangGraph + Groq) to automate task management and orchestrate dev workflows.  
 `React` `Spring Boot` `PostgreSQL` `LangGraph` `Groq`
 
-### [PoC DevOps](https://github.com/Mohssine-CHKIRIDA/PoC-devops)
+### [PoC DevOps](https://gitlab.com/Mohssine-CHKIRIDA)
 Full CI/CD pipeline for a 3-tier app: GitLab CI, Docker, Kubernetes, GitOps with Argo CD, and SAST/DAST security scans.  
 `Docker` `GitLab CI/CD` `Kubernetes` `Argo CD` `Minikube`
 
-### [E-commerce Platform](https://github.com/Mohssine-CHKIRIDA/E-commerce)
+### [E-commerce Platform](https://github.com/Mohssine-CHKIRIDA/E-commerce_Website)
 Full-stack e-commerce app with product catalog, cart, secure payments, and admin dashboard.  
 `React` `TypeScript` `Redux` `Node.js` `Express` `PostgreSQL` `JWT`
 
