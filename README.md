@@ -1,13 +1,12 @@
 # Hi, I'm Mohssine 👋
 
 Software Engineering student at **INPT Rabat** — building full-stack products and DevOps pipelines.  
-Currently looking for a **PFA internship** (end-of-year engineering project).
 
 ---
 
 ## 🚀 Featured Projects
 
-### [AgileAI](https://github.com/Mohssine-CHKIRIDA/AgileAI) — *In Progress*
+### [AgileAI](https://github.com/Mohssine-CHKIRIDA/AgileAI) 
 AI-powered Agile management SaaS inspired by Jira. Combines Scrum, Kanban, and AI agents (LangGraph + Groq) to automate task management and orchestrate dev workflows.  
 `React` `Spring Boot` `PostgreSQL` `LangGraph` `Groq`
 
